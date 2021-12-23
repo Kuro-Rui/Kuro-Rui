@@ -4,13 +4,15 @@
 
 - My Customized Cogs:
 
-  - [Kiki](https://github.com/Kuro-Rui/Kiki) - A Fork from Red's General cog (Customized for Kiki✨)
+  - [Kuro-Cogs](https://github.com/Kuro-Rui/Kuro-Cogs) - Some cogs that I customized and changed for Kiki✨ (You can see me being a failure there :D)
+  
+  - [Kiki](https://github.com/Kiki-0779/Kiki) - A Page that tells you more about Kiki✨
 
-  - [Kiki-CommandSearch](https://github.com/Kuro-Rui/Kiki-CommandSearch) - A Fork from jack's SearchCommands cog (Unapproved) which I made the cog info more family friendly.
+  - [Kiki-CommandSearch](https://github.com/Kiki-0779/CommandSearch) - A Fork from jack's SearchCommands cog (Unapproved) which I made the cog info more family friendly.
 
-  - [Kiki-Flare](https://github.com/Kuro-Rui/Kiki-Flare) - A Fork from flare-cogs.
+  - [Kiki-Flare](https://github.com/Kiki-0779/Flare) - A Fork from flare-cogs.
 
-  - [Kiki-Trusty](https://github.com/Kuro-Rui/Kiki-Trusty) - A Fork from Trusty-cogs.
+  - [Kiki-Trusty](https://github.com/Kiki-0779/Trusty) - A Fork from Trusty-cogs.
 
 - I'm mostly online on discord to find, add, and test new features/cogs for my bot everyday.
 
