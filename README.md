@@ -2,11 +2,11 @@
 
 <img src="https://cdn.discordapp.com/attachments/908719687397953606/928270305191936080/kuro_banner.png" alt="Banner" width="969">
 
-- I'm here, on github to customize some cogs for my Red -  Discord Bot, [Kiki✨](https://discord.com/oauth2/authorize?client_id=886547720985264178&scope=bot&permissions=2251673160%20applications.commands).
+- I'm here, on github to make and customize some cogs for my Red -  Discord Bot, [Kiki✨](https://discord.com/oauth2/authorize?client_id=886547720985264178&scope=bot+applications.commands&permissions=2251673160).
 
 - My Projects:
 
-  - [Kuro-Cogs](https://github.com/Kuro-Rui/Kuro-Cogs) - Some cogs that I customized and changed for Kiki✨ (You can see me being a failure there :D)
+  - [Kuro-Cogs](https://github.com/Kuro-Rui/Kuro-Cogs) - Some cogs that I make/customized (You can see me being a failure there :D)
   
   - [Kiki](https://github.com/Kiki-0779/Kiki) - A Page that tells you more about Kiki✨
 
