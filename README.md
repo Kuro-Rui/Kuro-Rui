@@ -16,12 +16,10 @@
 
 <h1 align="center">Stats</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kuro-Rui&include_all_commits=true&count_private=true&show_icons=true&line_height=20&border_radius=10&hide_border=true&title_color=A8EAFA&icon_color=ADD8E6&text_color=ABCDEF&bg_color=0,000000,3D4669" alt="Kuro-Rui's Github Stats">
   <br>
   <img width=495 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro-Rui&count_private=true&layout=compact&card_width=495&border_radius=10&hide_border=true&line_height=20&title_color=A8EAFA&icon_color=ADD8E6&text_color=ABCDEF&bg_color=0,000000,3D4669" alt="Kuro-Rui's Most Used Languages">
-</p>
-
-
+</div>
 
 <!---This is a ✨special✨ repository because it appears on GitHub profile.--->
