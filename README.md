@@ -10,6 +10,8 @@
   
   - [Kiki](https://github.com/Kiki-0779/Kiki) - A Page that tells you more about Kiki✨
 
+- I was known on [Discord](https://discord.com/app) as [K u r o#2740 (732425670856147075)](https://discord.com/users/732425670856147075).
+
 - I'm mostly online on discord to find, add, and test new features/cogs for my bot everyday.
 
 ---
