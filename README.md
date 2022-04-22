@@ -22,10 +22,10 @@
 
 <div align="center">
   <a href="https://github.com/Kuro-Rui">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kuro-Rui&include_all_commits=true&count_private=true&show_icons=true&line_height=20&border_radius=10&theme=tokyonight" alt="Kuro-Rui's Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kuro-Rui&include_all_commits=true&count_private=true&show_icons=true&line_height=20&border_radius=10&theme=tokyonight" alt="Kuro-Rui's Github Stats" width=450>
   </a>
   <a href="https://github.com/Kuro-Rui">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro-Rui&count_private=true&card_width=500&border_radius=10&theme=tokyonight" alt="Kuro-Rui's Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro-Rui&count_private=true&card_width=500&border_radius=10&theme=tokyonight" alt="Kuro-Rui's Most Used Languages" width=450>
   </a>
 </div>
 
@@ -35,10 +35,10 @@
 
 <div align="center">
   <a href="https://github.com/Kuro-Rui/Kuro-Cogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kuro-Rui&repo=Kuro-Cogs&border_radius=10&theme=tokyonight" alt="Kuro-Cogs" width=499>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kuro-Rui&repo=Kuro-Cogs&border_radius=10&theme=tokyonight" alt="Kuro-Cogs" width=450>
   </a>
   <a href="https://github.com/Kiki-0779/Red-DiscordBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kiki-0779&repo=Red-DiscordBot&border_radius=10&theme=tokyonight" alt="Red-DiscordBot" width=499>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kiki-0779&repo=Red-DiscordBot&border_radius=10&theme=tokyonight" alt="Red-DiscordBot" width=450>
   </a>
 </div>
 
