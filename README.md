@@ -8,8 +8,6 @@
 
   - [Kuro-Cogs](https://github.com/Kuro-Rui/Kuro-Cogs) - Some cogs that I make/customized (You can see me being a failure there :D)
   
-  - [Red-DiscordBot](https://github.com/Kiki-0779/Red-DiscordBot) - A fork of a multi-function Discord Bot, [Red](https://github.com/Cog-Creators/Red-DiscordBot).
-  
   - [Kiki](https://github.com/Kiki-0779/Kiki) - A Page that tells you more about Kiki✨
 
 - I was known on [Discord](https://discord.com/app) as [K u r o#2740 (732425670856147075)](https://discord.com/users/732425670856147075).
@@ -35,10 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/Kuro-Rui/Kuro-Cogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kuro-Rui&repo=Kuro-Cogs&border_radius=10&theme=tokyonight" alt="Kuro-Cogs" width=412>
-  </a>
-  <a href="https://github.com/Kiki-0779/Red-DiscordBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kiki-0779&repo=Red-DiscordBot&border_radius=10&theme=tokyonight" alt="Red-DiscordBot" width=412>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kuro-Rui&repo=Kuro-Cogs&border_radius=10&theme=tokyonight" alt="Kuro-Cogs" width=824>
   </a>
 </div>
 
