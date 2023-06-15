@@ -10,7 +10,7 @@
   
   - [Kiki](https://github.com/Kiki-0779/Kiki) - A Page that tells you more about Kiki✨
 
-- I was known on [Discord](https://discord.com/app) as [K u r o#2740 (732425670856147075)](https://discord.com/users/732425670856147075).
+- I was known on [Discord](https://discord.com/app) as [KuRui#7272 (732425670856147075)](https://discord.com/users/732425670856147075).
 
 - I'm mostly online (almost 24/7) on discord to find, add, and test new features/cogs for my bot everyday.
 
@@ -24,16 +24,6 @@
   </a>
   <a href="https://github.com/Kuro-Rui">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro-Rui&count_private=true&card_width=500&border_radius=10&theme=tokyonight" alt="Kuro-Rui's Most Used Languages" width=412>
-  </a>
-</div>
-
----
-
-<h1 align="center">Repositories</h1>
-
-<div align="center">
-  <a href="https://github.com/Kuro-Rui/Kuro-Cogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kuro-Rui&repo=Kuro-Cogs&border_radius=10&theme=tokyonight" alt="Kuro-Cogs" width=824>
   </a>
 </div>
 
