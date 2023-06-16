@@ -10,7 +10,7 @@
   
   - [Kiki](https://github.com/Kiki-0779/Kiki) - A Page that tells you more about Kiki✨
 
-- I was known on [Discord](https://discord.com/app) as [KuRui#7272 (732425670856147075)](https://discord.com/users/732425670856147075).
+- I was known on [Discord](https://discord.com/app) as [@kurokurorin (732425670856147075)](https://discord.com/users/732425670856147075).
 
 - I'm mostly online (almost 24/7) on discord to find, add, and test new features/cogs for my bot everyday.
 
