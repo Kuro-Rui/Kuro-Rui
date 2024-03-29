@@ -27,4 +27,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kuro-Rui/Kuro-Rui/output/snake.svg" alt="Snake"/>
+<img src="https://raw.githubusercontent.com/Kuro-Rui/Kuro-Rui/assets/snake.svg" alt="Snake"/>
