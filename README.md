@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Kuro 👋</h1>
 
+- I'm a Developer from Indonesia! 🇮🇩
+- I'm currently working on [Shiro](https://github.com/Shiro-DiscordBot/Red-DiscordBot) 👨🏻‍💻
+
 <h2 align="left">My GitHub Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kuro-Rui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
@@ -23,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50 alt="c++"/>
 </div>
 
-###
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/Kuro-Rui/Kuro-Rui/assets/snake.svg" alt="Snake"/>
