@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kuro 👋</h1>
 
 - I'm a Developer from Indonesia! 🇮🇩
-- I'm currently working on [Shiro](https://discord.com/oauth2/authorize?client_id=886547720985264178) and [Fumo](https://github.com/Kuro-Rui/FumoBot-TS) 👨🏻‍💻
+- I'm currently working on [Yuya](https://github.com/Kuro-Rui/YuyaBot) <!-- [Shiro](https://discord.com/oauth2/authorize?client_id=886547720985264178) and [Fumo](https://github.com/Kuro-Rui/FumoBot) --> 👨🏻‍💻
 
 <h2 align="left">My GitHub Stats</h2>
 <div align="left">
